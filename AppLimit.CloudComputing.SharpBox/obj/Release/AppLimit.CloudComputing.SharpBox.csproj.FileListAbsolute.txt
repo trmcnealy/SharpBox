@@ -1,0 +1,10 @@
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\obj\Release\AppLimit.CloudComputing.SharpBox.Exceptions.ErrorMessages.resources
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\obj\Release\AppLimit.CloudComputing.SharpBox.csproj.GenerateResource.Cache
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\bin\Release\net35\AppLimit.CloudComputing.SharpBox.dll
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\bin\Release\net35\AppLimit.CloudComputing.SharpBox.pdb
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\bin\Release\net35\AppLimit.CloudComputing.SharpBox.XML
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\bin\Release\net35\Newtonsoft.Json.dll
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\bin\Release\net35\Newtonsoft.Json.xml
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\obj\Release\AppLimit.CloudComputing.SharpBox.dll
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\obj\Release\AppLimit.CloudComputing.SharpBox.pdb
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox\obj\Release\AppLimit.CloudComputing.SharpBox.csprojResolveAssemblyReference.cache

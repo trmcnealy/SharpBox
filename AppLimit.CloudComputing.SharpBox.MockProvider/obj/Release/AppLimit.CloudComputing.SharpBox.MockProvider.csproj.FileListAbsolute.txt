@@ -1,0 +1,10 @@
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\bin\Release\AppLimit.CloudComputing.SharpBox.MockProvider.dll
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\bin\Release\AppLimit.CloudComputing.SharpBox.MockProvider.pdb
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\bin\Release\AppLimit.CloudComputing.SharpBox.dll
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\bin\Release\Newtonsoft.Json.dll
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\bin\Release\AppLimit.CloudComputing.SharpBox.pdb
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\bin\Release\AppLimit.CloudComputing.SharpBox.xml
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\bin\Release\Newtonsoft.Json.xml
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\obj\Release\AppLimit.CloudComputing.SharpBox.MockProvider.csprojResolveAssemblyReference.cache
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\obj\Release\AppLimit.CloudComputing.SharpBox.MockProvider.dll
+C:\Users\Nunyo\Documents\Visual Studio 2012\Projects\SharpBox\AppLimit.CloudComputing.SharpBox.MockProvider\obj\Release\AppLimit.CloudComputing.SharpBox.MockProvider.pdb
